@@ -1,0 +1,14 @@
+#!/bin/bash
+clear
+red='\033[0;31m'          # Color Red
+echo "╔═════════════════════════════════════════════════════════════════════════"
+echo "║ GNU Linux Grub v2.14.5-PteroMyAdmin Edition."
+echo "║ В доступе отказано!"
+echo "║ Ваше ядро PteroMyAdmin.jar является бесплатным."
+echo "║ Для его использования преобретите лицензию."
+echo "║ Стоимость: 1900 [RUB] | Купить лицензию можно тут --> https://vk.com/Dan.Owner"
+echo "║"
+echo "║ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "║ © 2022 PteroMyAdmin Flame Corporation | Coded by ENDER#4335"
+echo "╚═════════════════════════════════════════════════════════════════════════"
+exit
